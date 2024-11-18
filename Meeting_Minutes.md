@@ -1,3 +1,6 @@
+#### 18.11.24
+Create a tabulated print in Ebola mini project and limit to 15 datas
+
 #### 15.11.24
 Missing notebook title for some notebooks. Update the same things in meeting minutes(TO DO) COMPLETED ON 18.11.24
 
