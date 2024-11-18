@@ -1,5 +1,6 @@
 #### 18.11.24
     -> Changes made as per the comments on last meeting
+    -> Imported kaggle data set and completed Ebola mini project
 #### 14.11.24
     -> Completed PART A in Ebola Project
 #### 12.11.24
