@@ -1,3 +1,5 @@
+#### 22.11.24
+    -> Completed Part A 2 Question in Airport Mini project
 #### 18.11.24
     -> Changes made as per the comments on last meeting
     -> Imported kaggle data set and completed Ebola mini project
