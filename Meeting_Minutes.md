@@ -1,3 +1,7 @@
+#### 22.11.24 
+
+Started with Airport Mini Project
+
 #### 18.11.24
 Create a tabulated print in Ebola mini project and limit to 15 datas (completed)
 
