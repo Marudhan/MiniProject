@@ -1,3 +1,7 @@
+#### 02.01.25
+    -> Completed Miniproject 8
+#### 30.12.24
+    -> Completed Miniproject 7
 #### 22.11.24
     -> Completed Part A 2 Question in Airport Mini project
 #### 18.11.24
